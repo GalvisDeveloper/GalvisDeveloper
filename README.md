@@ -13,11 +13,11 @@
 <div style="display:flex;" align="left">
 <!-- Twitter -->
 <a href="https://twitter.com/bustos_galvis" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bustos_galvis" height="30" width="40" /></a>
+<img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-4.svg" style="fill: white;" alt="bustos_galvis" height="30" width="40" /></a>
 <!-- LinkedIn -->
-<a href="https://linkedin.com/in/cristianbg97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cristianbg97" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/cristianbg97" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="cristianbg97" height="30" width="40" /></a>
 <!-- Gmail -->
-<a href="mailto:galvisdeveloper@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="galvisdeveloper@gmail.com" height="30" width="40"/></a>
+<a href="mailto:galvisdeveloper@gmail.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="galvisdeveloper@gmail.com" height="30" width="40"/></a>
 </div>
 
 <h3 align="left">Here some of my projects:</h3>
