@@ -28,7 +28,7 @@
 
 <h3 align="left">Can you see my portfolio here</h3>
 
-- 👉[Portfolio](https://portfolio-cabg.netlify.app/) ⭐⚛️
+- 👉[Portfolio](https://cabg-portfolio.netlify.app/) ⭐⚛️
 
 <h3 align="left">Languages and Tools that I know:</h3>
 <div align="center" style="display:flex;">
