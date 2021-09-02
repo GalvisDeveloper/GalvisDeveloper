@@ -43,7 +43,7 @@
  <!-- Firebase -->
  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
  <!-- mongoDB -->
- <!-- <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> -->
+ <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <!-- MySQL -->
 <a href="https://www.mysql.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="mysql" width="40" height="40" /></a>
  <!-- Git -->
@@ -55,7 +55,11 @@
  <!-- Redux -->
  <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
  <!-- Styled-components -->
- <a href="https://rebassjs.org" target = "_blank"><img src="https://styled-components.com/atom.png" alt="styled-components" width="40" height="40"/></a>
+ <a href="https://styled-components.com/" target = "_blank"><img src="https://styled-components.com/atom.png" alt="styled-components" width="40" height="40"/></a>
  <!-- Rebass -->
  <a href="https://rebassjs.org" target = "_blank"><img src="https://avatars.githubusercontent.com/u/41265750?s=280&v=4" alt="rebass" width="40" height="40"/></a>
+ <!-- Spring Boot -->
+ <a href="https://spring.io/projects/spring-boot" target = "_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="springboot" width="40" height="40"/></a>
+ <!-- NodeJs -->
+ <a href="https://nodejs.org/es/" target = "_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="40" height="40"/></a>
 </div>
