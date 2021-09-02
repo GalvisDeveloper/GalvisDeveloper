@@ -45,7 +45,7 @@
  <!-- mongoDB -->
  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <!-- MySQL -->
-<a href="https://www.mysql.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="mysql" width="40" height="40" /></a>
+<a href="https://www.mysql.com" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="40" height="40" /></a>
  <!-- Git -->
  <a href="https://git-scm.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="html5" width="40" height="40"/></a>
  <!-- Java -->
