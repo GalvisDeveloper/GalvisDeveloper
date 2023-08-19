@@ -37,8 +37,6 @@
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <!-- Css 3 -->
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<!-- Bootstrap -->
-<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
  <!-- JavaScript -->
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
  <!-- Firebase -->
@@ -63,4 +61,8 @@
  <a href="https://spring.io/projects/spring-boot" target = "_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="springboot" width="40" height="40"/></a>
  <!-- NodeJs -->
  <a href="https://nodejs.org/es/" target = "_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="40" height="40"/></a>
+
+<!-- Vite/Vitest -->
+ <a href="https://vitejs.dev/" target = "_blank"><img src="https://www.svgrepo.com/show/374167/vite.svg" alt="nodejs" width="40" height="40"/>
+  <a href="https://nodejs.org/es/" target = "_blank"><img src="https://seeklogo.com/images/V/vitest-logo-9ADDA575A5-seeklogo.com.png" alt="vitest" width="40" height="40"/>
 </div>
