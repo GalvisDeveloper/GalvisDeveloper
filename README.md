@@ -19,13 +19,14 @@
 <!-- Gmail -->
 <a href="mailto:galvisdeveloper@gmail.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="galvisdeveloper@gmail.com" height="30" width="40"/></a>
 </div>
-
+<!--
 <h3 align="left">Here some of my projects:</h3>
-
+<div>
 - 🟢 Clone of WhatsApp Web 👉 [WhatsAppWeb-Clone](https://whatsappclone-rjs.web.app) ⚛️
 - 🟢 A simple game of TicTacToe or Triki Traki (Local) 👉 [TicTacToe](https://game-tictactoe-cb.netlify.app) ⚛️
 - 🟢 Website to generate specific gifs 👉 [GifGenerator](https://gdev-gifgenerator.netlify.app) ⚛️
-
+</div>
+-->
 <h3 align="left">Can you see my portfolio here</h3>
 
 - 👉[Portfolio](https://cabg-portfolio.netlify.app/) ⭐⚛️
