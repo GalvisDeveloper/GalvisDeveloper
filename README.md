@@ -64,5 +64,5 @@
 
 <!-- Vite/Vitest -->
  <a href="https://vitejs.dev/" target = "_blank"><img src="https://www.svgrepo.com/show/374167/vite.svg" alt="nodejs" width="40" height="40"/>
-  <a href="https://vitest.dev/guide/features.html" target = "_blank"><img src="https://logowik.com/vitest-testing-framework-logo-vector-71449.html" alt="vitest" width="40" height="40"/>
+ <a href="https://vitest.dev/" target = "_blank"><img src="https://vitest.dev/logo.svg" alt="nodejs" width="40" height="40"/>
 </div>
